@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: white;
+}
+
+#container{
+	display: flex;
+	height: 100vh;
+}
+
+#main{
+	padding:25px;
+	
+	
+}
+
+
+
+#sidenav{
+	padding: 20px;
+	background-color: orange;
+	
+	
+}
+
+#sidenav a{
+	text-decoration: none;
+	color: #000;
+	
+}
+
+#sidenav a:hover{
+	
+	color:#6E6E6DFF;
+	
+}
+
+#sidenav h3{
+	padding: 10px 20px;
+	
+}
